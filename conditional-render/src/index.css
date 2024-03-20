@@ -1,0 +1,17 @@
+.welcome{
+  font-size: 2.5em;
+  background-color: bisque;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+
+.login{
+  font-size: 2.5em;
+  background-color: rgb(192, 30, 33);
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
